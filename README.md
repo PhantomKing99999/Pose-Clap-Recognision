@@ -1,4 +1,7 @@
 # Pose-Clap-Recognision
+
+https://events.mlh.io/events/9976 Hackathon Project
+
 Returns value when you are clapping
 
 How to install:
